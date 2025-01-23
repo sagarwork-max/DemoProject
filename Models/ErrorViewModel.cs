@@ -5,6 +5,6 @@ namespace DemoProject.Models
         public string? RequestId { get; set; }
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
-        public int ID { get; set; }
+        public int Name { get; set; }
     }
 }
