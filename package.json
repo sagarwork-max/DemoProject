@@ -12,8 +12,7 @@
   },
   "config": {
     "commitizen": {
-      //"path": "@commitlint/cz-commitlint"
-      "path": "cz-vinyl"
+      "path": "@commitlint/cz-commitlint"
     }
   }
 }
